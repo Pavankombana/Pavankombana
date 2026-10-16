@@ -16,19 +16,31 @@
 <br/>
 <br/>
 
+<p align="center">
+  <img src="./img/sunny_ship.gif" width="140" alt="Thousand Sunny Sailing" /><br/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Ocean Divider" />
+</p>
+
+<br/>
+
 <img width="270" src="./img/luffy_card.png" align=right />
 <img src="./img/header_tech.png" width="460" />
 <br/>
 <br/>
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,electron,nodejs,vite,tailwind,html,css,git&theme=dark" />
-  </a>
+  <b>Frontend & Desktop</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,electron,vite,tailwind,html,css&theme=dark" alt="Frontend & Desktop" />
+  <br/><br/>
+  <b>Backend & Systems</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs&theme=dark" alt="Backend & Systems" />
+  <br/><br/>
+  <b>Tools & Environment</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell&theme=dark" alt="Tools & Environment" />
 </p>
 
 <br/>
 <br/>
 
-<img src="./img/bottom_banner.png" width="100%" align="center" />
+<img src="./img/bottom_banner.png" width="100%" align="center" alt="Straw Hat Crew" />
 </div>
