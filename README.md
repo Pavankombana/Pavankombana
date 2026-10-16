@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="header" />
+  <img src="assets/banner.jpg" width="100%" alt="One Piece Straw Hats" />
 </div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </p>
-
-<br/>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -16,10 +14,25 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🔮 <a href="https://github.com/Pavankombana/My-Orb">My Orb</a></h3>
+        <p>Desktop Assistant & System Automation</p>
+        <code>Electron</code> • <code>React</code> • <code>Vite</code>
+      </td>
+      <td width="50%" align="center">
+        <h3>🥔 <a href="https://github.com/Pavankombana/Potato_Legend_Bot">Potato Legend Bot</a></h3>
+        <p>Discord Moderation & Minecraft Integration</p>
+        <code>Python</code> • <code>discord.py</code> • <code>AsyncIO</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="footer" />
+  <img src="assets/luffy_noir.png" width="100%" alt="Luffy Noir" />
 </div>
