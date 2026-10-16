@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/JUST%20VIBES-F59E0B?style=for-the-badge" alt="Just Vibes" />
 </p>
 
-*CS student by day, mass-vibe-coding with Antigravity by night*
+*Building anything that comes to my mind*
 
 <br/><br/>
 
