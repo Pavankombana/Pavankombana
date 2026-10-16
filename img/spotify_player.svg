@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="96" viewBox="0 0 460 96">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 12px; }
+      .title { fill: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; }
+      .artist { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; }
+      .bar-bg { fill: #21262d; rx: 2px; }
+      .bar-fill { fill: #1db954; rx: 2px; }
+      .time { fill: #8b949e; font-family: monospace; font-size: 10px; }
+      .eq-bar { fill: #1db954; transform-origin: bottom; animation: bounce 1.2s ease-in-out infinite alternate; }
+      .eq-1 { animation-delay: 0.1s; }
+      .eq-2 { animation-delay: 0.4s; }
+      .eq-3 { animation-delay: 0.2s; }
+      .eq-4 { animation-delay: 0.5s; }
+      .eq-5 { animation-delay: 0.3s; }
+      @keyframes bounce {
+        0% { transform: scaleY(0.2); }
+        50% { transform: scaleY(1.0); }
+        100% { transform: scaleY(0.3); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Card -->
+  <rect class="bg" width="458" height="94" x="1" y="1" rx="12" />
+
+  <!-- Album Art Placeholder / Vinyl -->
+  <rect x="16" y="16" width="64" height="64" rx="8" fill="#161b22" stroke="#30363d" />
+  <circle cx="48" cy="48" r="22" fill="#0d1117" stroke="#30363d" stroke-width="2" />
+  <circle cx="48" cy="48" r="8" fill="#1db954" />
+
+  <!-- Track Info -->
+  <text x="94" y="34" class="title">Overtaken (Lofi Remix)</text>
+  <text x="94" y="52" class="artist">One Piece OST • Coding Vibes</text>
+
+  <!-- Progress Bar -->
+  <rect x="94" y="66" width="310" height="4" class="bar-bg" />
+  <rect x="94" y="66" width="180" height="4" class="bar-fill" />
+  <text x="412" y="71" class="time">2:14</text>
+
+  <!-- Animated Sound Equalizer -->
+  <g transform="translate(420, 20)">
+    <!-- 5 Animated Bars -->
+    <rect class="eq-bar eq-1" x="0" y="4" width="3" height="18" rx="1.5" />
+    <rect class="eq-bar eq-2" x="5" y="0" width="3" height="22" rx="1.5" />
+    <rect class="eq-bar eq-3" x="10" y="6" width="3" height="16" rx="1.5" />
+    <rect class="eq-bar eq-4" x="15" y="2" width="3" height="20" rx="1.5" />
+    <rect class="eq-bar eq-5" x="20" y="8" width="3" height="14" rx="1.5" />
+  </g>
+</svg>
