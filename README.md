@@ -23,7 +23,7 @@
 
 <br/>
 
-<img width="270" src="./img/luffy_card.png" align=right />
+<img width="280" src="./img/zoro_smoke.png" align=right />
 <img src="./img/header_tech.png" width="460" />
 <br/>
 <br/>
