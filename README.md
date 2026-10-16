@@ -20,13 +20,6 @@
   currently   : vibe coding & one piece
 ```
 
-<br/>
-
-### Now Playing
-
-<img src="./img/spotify_player.svg" width="460" alt="Spotify Player" />
-
-<br/>
 
 ### Tech Stack
 
