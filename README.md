@@ -1,46 +1,33 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:0F172A&height=190&section=header&text=PAVAN%20%7C%20POTATO&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=CS%20Student%20%E2%80%A2%20Vibe%20coder&descSize=18&descAlignY=60&descColor=F59E0B" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:0F172A&height=180&section=header&text=PAVAN%20%7C%20POTATO&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=CS%20Student%20%E2%80%A2%20Vibe%20coder&descSize=17&descAlignY=60&descColor=F59E0B" width="100%"/>
+</div>
 
-<div>  
-<img width="300" src="./img/zoro_card.png" align=right />
-<br/>
-<img src="./img/header_about.png" width="460" />
-<br/>
-<br/>
+<div>
+<img width="290" src="./img/zoro_smoke.png" align="right" alt="Zoro" />
+
+### About Me
 
 - Status: **CS Student**
 - Role: **Vibe coder**
 - Handle: **Pavankombana** (call me **potato**)
+- Focus: **Desktop Applications & Automated Systems**
 - Stack: **TypeScript**, **Python**, **React**, **Electron**, **Vite**
 
 <br/>
-<br/>
-<br/>
 
-<p align="center">
-  <img src="./img/sunny_ship.gif" width="140" alt="Thousand Sunny Sailing" /><br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Ocean Divider" />
-</p>
-
-<br/>
-
-<img width="280" src="./img/zoro_smoke.png" align=right />
-<img src="./img/header_tech.png" width="460" />
-<br/>
-<br/>
+### Tech Arsenal
 
 <p>
-  <b>Frontend & Desktop</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,electron,vite,tailwind,html,css&theme=dark" alt="Frontend & Desktop" />
-  <br/><br/>
-  <b>Backend & Systems</b><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs&theme=dark" alt="Backend & Systems" />
-  <br/><br/>
-  <b>Tools & Environment</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell&theme=dark" alt="Tools & Environment" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,electron,nodejs,vite,tailwind,git,powershell&theme=dark" alt="Skills" />
+  </a>
 </p>
 
+</div>
+
 <br/>
 <br/>
 
-<img src="./img/bottom_banner.png" width="100%" align="center" alt="Straw Hat Crew" />
+<div align="center">
+  <img src="./img/bottom_banner.png" width="100%" alt="Gear 5 Lightning" />
 </div>
