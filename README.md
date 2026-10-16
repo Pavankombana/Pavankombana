@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<img width="300" src="./img/zoro_smoke.png" align="right" alt="Zoro" />
+<img width="300" src="./img/zoro_transparent.png" align="right" alt="Zoro" />
 
 ### About Me
 
@@ -44,13 +44,6 @@
 </div>
 
 <br/>
-
-### 3D Contribution City
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
-</div>
-
 <br/>
 
 <div align="center">
