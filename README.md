@@ -28,7 +28,19 @@
 
 <br/>
 
-### Infinite Tech Arsenal
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/CS%20STUDENT-10B981?style=for-the-badge" alt="CS Student" />
+  <img src="https://img.shields.io/badge/ANTIGRAVITY-4285F4?style=for-the-badge" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/IDK-262626?style=for-the-badge" alt="IDK" />
+  <img src="https://img.shields.io/badge/ANTIGRAVITY%20DOES%20IT%20ALL-7928CA?style=for-the-badge" alt="Antigravity Does It All" />
+  <img src="https://img.shields.io/badge/JUST%20VIBES-F59E0B?style=for-the-badge" alt="Just Vibes" />
+</p>
+
+*CS student by day, mass-vibe-coding with Antigravity by night*
+
+<br/><br/>
 
 <p>
   <a href="https://skillicons.dev">
