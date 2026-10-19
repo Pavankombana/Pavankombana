@@ -20,7 +20,6 @@
   currently   : vibe coding & one piece
 ```
 
-
 ### Tech Stack
 
 <p>
@@ -37,7 +36,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,rust,go,cpp,cs,c,react,nextjs,vue,svelte,electron,nodejs,bun,vite,tailwind,html,css,git,github,docker,linux,windows,vscode,powershell,bash,mongodb,postgres,sqlite,redis,figma,threejs&theme=dark&perline=11" alt="Infinite Tech Arsenal" />
+    <img src="https://skillicons.dev/icons?i=react,electron,vite,tailwind,html,css,figma,rust,ts,js,py,nodejs,git,github,vscode,powershell&theme=dark&perline=8" alt="Tech Arsenal" />
   </a>
 </p>
 
