@@ -7,10 +7,10 @@
 
 ### About Me
 
-- Status: **CS Student**
-- Role: **Vibe coder**
+- Status: **CS Student.**
+- Role: **Vibe coder.**
 - Handle: **Pavankombana** (call me **potato**)
-- Philosophy: **Whatever builds the vision**
+- Philosophy: **Whatever builds the vision.**
 
 ```zsh
 ❯ potato --status
